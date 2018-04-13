@@ -1,2 +1,4 @@
 # JustJava
-Udacity intro to Android. This is a coffee ordering app.
+This is a coffee ordering app.
+
+Udacity ANDROIDbeginner-Grow with Google Scholarship course
